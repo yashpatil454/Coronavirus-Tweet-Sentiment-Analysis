@@ -90,9 +90,9 @@ Simply said, random forest combines many decision trees to produce a more accura
 <h2> :book: Support Vector Classification (SVC)</h2>
 
 <p>Support Vector Machines (SVMs) are a type of supervised learning algorithm that can be used for both binary and multiclass classification.
-  
+ 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/67974590/215535245-0bab3d4a-aa7b-46cd-8f12-85dd12059a10.gif">
+  <img src="https://user-images.githubusercontent.com/67974590/215536274-23de06dc-35bf-4674-910c-b3496ef1537d.png">
 </p>
 
 The OneVsOneClassifier is a strategy for multi-class classification problems. It works by training a separate binary classifier for each pair of classes, and then combining the results of all the classifiers to make a final prediction.
