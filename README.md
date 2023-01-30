@@ -29,7 +29,7 @@
 
  <h2> :floppy_disk: Project Files Description</h2>
 
-<p>This project contains two executable file as follows:</p>
+<p>This project contains one executable file as follows:</p>
 <h4>Executable Files:</h4>
 <ul>
   <li><b>Coronavirus_Tweet_Sentiment_Analysis.ipynb</b> - Google Collab notebook containing data summary, exploration, visualisations, modeling, model performance, evaluation and conclusion.</li>
@@ -73,8 +73,9 @@ Unique word counts can provide insights into the vocabulary and language used in
 <p>Random forest is a supervised learning algorithm. It creates a "forest" out of an ensemble of decision trees, which are commonly trained using the "bagging" method. The bagging method's basic premise is that combining different learning models improves the overall output.
 Simply said, random forest combines many decision trees to produce a more accurate and stable prediction.
 
-![1_Mb8awDiY9T6rsOjtNTRcIg](https://user-images.githubusercontent.com/67974590/214353597-e432ac1d-d4ec-4a93-846f-81dc2cf52f1e.png)
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/67974590/214353597-e432ac1d-d4ec-4a93-846f-81dc2cf52f1e.png">
+</p>
 
 <p>Furthermore, the random forest classifier is efficient, can handle a large number of input variables, and provides correct predictions in most cases. It's a very strong tool that doesn't require any coding to implement.</p>
 
@@ -89,6 +90,10 @@ Simply said, random forest combines many decision trees to produce a more accura
 <h2> :book: Support Vector Classification (SVC)</h2>
 
 <p>Support Vector Machines (SVMs) are a type of supervised learning algorithm that can be used for both binary and multiclass classification.
+  
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/67974590/215535245-0bab3d4a-aa7b-46cd-8f12-85dd12059a10.gif">
+</p>
 
 The OneVsOneClassifier is a strategy for multi-class classification problems. It works by training a separate binary classifier for each pair of classes, and then combining the results of all the classifiers to make a final prediction.
 
