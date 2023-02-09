@@ -1,5 +1,4 @@
 <h1 align="center"> Coronavirus Tweet Sentiment Analysis </h1>
-<h3 align="center"> AlmaBetter Verified Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
 
 <p align="center"> </p>
 <h2> :floppy_disk: Problem Statement and Project Description</h2>
